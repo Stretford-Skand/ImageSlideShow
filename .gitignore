@@ -1,6 +1,8 @@
 # Build directories
 build*/
 out/
+Debug/
+Release/
 
 # CMake generated
 CMakeCache.txt
